@@ -1,1 +1,8 @@
 # Violent_acts_judgement
+"Participants were presented with the questions online via the online platform Qualtrics. Participants were given 6 questions in total. 
+
+They were asked to type their age in a text box [continuous measure], and provide details of their gender (Female [score 1], Male [score 2], Rather not say [Score 3]), along with their political affiliation (Left [Score 1], Centre [Score 2], Right [Score 3], Other [Score 4]), their educational background (High school [Score 1], diploma/foundation [Score 2], Bachelor’s degree [Score 3], Master’s degree [Score 4], PhD [Score 5], Other [Score 6]), and religious orientation (Definitely religious [Score 1], Not sure [Score 2], Definitely not religious [Score 3]). These formed the basic question regarding demographics and social/cultural characteristics. 
+
+Rating Task: Then participants were randomly allocated to one of 8 violent acts (spit, slap, kick, punch, headbutt, threaten with a knife, choke, and stab), and where asked, please indicate on a scale from 1(not at all severe) to 8 (extremely severe) the severity of the violent act. The alpha for response to the rating task was acceptable at the level of (α=0.69). 
+
+Ranking Task: For the ranking task each participant was presented with all 8 violent acts on screen and were required to drag and click the 8 items and stack them in order from least to most violent." (Osman, 2019)
